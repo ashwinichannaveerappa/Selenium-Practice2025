@@ -1,6 +1,3 @@
-# Selenium-Practice2025
-
-
 # Selenium Practice (Java + TestNG) – Selenium 4 Features
 
 This repository contains practice scripts and hands-on exercises using **Selenium WebDriver 4** with **Java** and **TestNG**. It’s part of my preparation before developing a full-fledged automation framework.
